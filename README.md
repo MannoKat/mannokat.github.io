@@ -21,9 +21,8 @@ At Vietnamese-German University, my team, under my leadership, developed an AIoT
 ![Tomato Plant Care](/assets/images/Tomato.png)
 
 ## Curricular Activities
+- Technical Trainer of VGU Volleyball Club (03/2023 - now)
+    - Organize an internal volleyball tournament during sport week at VGU (2023)
+    - Participated in the Student Sports Festival of Binh Duong Province (2023)
 
-### Technical Trainer of VGU Volleyball Club(03/2023 - now)
-
-### Participated in the Student Sports Festival of Binh Duong province(2023)
-
-### Volunteering as Main Referee for Two Internal Badminton Tournaments (2022)
+- Volunteering as Main Referee for Two Internal Badminton Tournaments at VGU (2022)
